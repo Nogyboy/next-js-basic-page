@@ -1,9 +1,9 @@
 import React from 'react'
 
-function PropmtCard() {
+function PromptCard() {
   return (
-    <div>PropmtCard</div>
+    <div>PromptCard</div>
   )
 }
 
-export default PropmtCard
+export default PromptCard

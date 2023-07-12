@@ -7,7 +7,7 @@ const Home = () => {
       <h1 className="head_text text-center">
         Discover & Share
         <br className="max-md:hidden" />
-        <span className="orange_gradient text-center"> AI-Powered Propmts</span>
+        <span className="orange_gradient text-center"> AI-Powered Prompts</span>
       </h1>
       <p className="desc text-center">
         Hi, AI is a powered technology that can help you to write better.
